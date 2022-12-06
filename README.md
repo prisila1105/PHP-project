@@ -1,1 +1,1 @@
-# PHP-project
+# PHP-project-SuperShop Management System
